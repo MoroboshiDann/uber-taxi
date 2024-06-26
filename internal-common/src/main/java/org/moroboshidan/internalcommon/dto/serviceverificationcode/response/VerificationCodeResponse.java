@@ -1,4 +1,4 @@
-package org.moroboshidan.internalcommon.dto.serviceverificationcode;
+package org.moroboshidan.internalcommon.dto.serviceverificationcode.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
